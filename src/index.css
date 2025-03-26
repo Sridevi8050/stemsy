@@ -1,0 +1,17 @@
+@import "tailwindcss";
+.slick-prev:before, .slick-next:before {
+    color: gray;  /* Change to any color */
+    font-size: 30px;
+     /* Optional: Change size */
+  }
+  .slick-slide >div{
+    margin: 0 20px;
+    
+    
+  }
+  /* .slick-prev{
+    left:20px;
+  } */
+  /* .slick-next{
+    left:18px;
+  } */
